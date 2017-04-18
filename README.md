@@ -9,12 +9,11 @@ Version
 Usage
 ---------------------------------
 ```js
-	$("span").linkIt({
-			href: "https://www.test.com/",
-      text: "Click me",
-      target: "_blank"
-		});
-
+$("span").linkIt({
+	href: "https://www.test.com/",
+	text: "Click me",
+	target: "_blank"
+});
 ```
 
 Vendors
